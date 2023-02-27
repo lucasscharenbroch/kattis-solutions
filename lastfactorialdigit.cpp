@@ -15,6 +15,13 @@ void init_cin() {
     cin.exceptions(cin.failbit);
 }
 
+/*
+ * Problem Name: Last Factorial Digit
+ * Difficulty: 1.5 (Easy)
+ * Categories: Math
+ * Algorithms: 
+ */
+
 int main() {
     init_cin();
 

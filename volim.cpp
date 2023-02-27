@@ -15,6 +15,13 @@ void init_cin() {
     cin.exceptions(cin.failbit);
 }
 
+/*
+ * Problem Name: Volim
+ * Difficulty: 1.7 (Easy)
+ * Categories: 
+ * Algorithms: 
+ */
+
 int main() {
     int K, N, T;
     char Z;

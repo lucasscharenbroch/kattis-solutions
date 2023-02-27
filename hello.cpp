@@ -15,6 +15,14 @@ void init_cin() {
     cin.exceptions(cin.failbit);
 }
 
+/*
+ * Problem Name: Hello World!
+ * Difficulty: 1.1 (Easy)
+ * Categories: 
+ * Algorithms: 
+ */
+
+
 int main() {
     init_cin();
 

@@ -15,6 +15,13 @@ void init_cin() {
     cin.exceptions(cin.failbit);
 }
 
+/*
+ * Problem Name: Two-Sum
+ * Difficulty: 1.4 (Easy)
+ * Categories: 
+ * Algorithms: 
+ */
+
 int main() {
     init_cin();
 

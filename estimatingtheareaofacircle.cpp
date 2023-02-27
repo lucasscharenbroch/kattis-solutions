@@ -15,6 +15,13 @@ void init_cin() {
     cin.exceptions(cin.failbit);
 }
 
+/*
+ * Problem Name: Estimating The Area of a Circle
+ * Difficulty: 1.5 (Easy)
+ * Categories: Math
+ * Algorithms: 
+ */
+
 int main() {
     init_cin();
 

@@ -15,6 +15,13 @@ void init_cin() {
     cin.exceptions(cin.failbit);
 }
 
+/*
+ * Problem Name: Tetration
+ * Difficulty: 1.6 (Easy)
+ * Categories: Math
+ * Algorithms: 
+ */
+
 int main() {
     double N;
     cin >> N;

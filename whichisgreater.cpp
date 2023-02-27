@@ -15,6 +15,13 @@ void init_cin() {
     cin.exceptions(cin.failbit);
 }
 
+/*
+ * Problem Name: Which is Greater?
+ * Difficulty: 1.3 (Easy)
+ * Categories: 
+ * Algorithms: 
+ */
+
 int main() {
     init_cin();
 

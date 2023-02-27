@@ -14,3 +14,16 @@ void init_cin() {
     cin.tie(0)->sync_with_stdio(0);
     cin.exceptions(cin.failbit);
 }
+
+/*
+ * Problem Name: 
+ * Difficulty: 
+ * Categories: 
+ * Algorithms: 
+ */
+
+int main() {
+    init_cin();
+
+    return 0;
+}
